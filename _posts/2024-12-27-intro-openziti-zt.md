@@ -2,8 +2,6 @@
 title: "Introduction into OpenZiti and Zero Trust Networks"
 date: 2024-12-17
 ---
-# Introduction into OpenZiti and Zero Trust networks
-
 This is the first article in a series dedicated to exploring a complex yet powerful project designed to address the security challenges posed by current approaches to enterprise private networking. 
 
 My intended audience includes network security specialists, DevSecOps professionals, and network administrators who may be familiar with the concept of zero trust but are seeking effective implementations. 
