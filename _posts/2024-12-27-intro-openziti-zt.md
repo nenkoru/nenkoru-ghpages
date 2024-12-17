@@ -45,7 +45,7 @@ From Clint of OpenZiti: <https://www.youtube.com/live/ctdyAzvByR8?si=0rFBV8fL6eN
 
 From IBM: <https://www.youtube.com/watch?v=yn6CPQ9RioA&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
 
-And CISCO: <https://www.youtube.com/watch?v=DLQAbJm4gFM&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
+And CISO: <https://www.youtube.com/watch?v=DLQAbJm4gFM&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
 
 
 ## OpenZiti's Zero-Trust
