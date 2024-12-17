@@ -28,11 +28,12 @@ With questions to be answered:
 
 Least Privilege boils down to allowing an identity only what is vital to perform its functions.
 
-#### The second thing is: Strong Identity Verification 
 
+### The second thing is: Strong Identity Verification 
 You must confirm a principal’s asserted identity when accessing the service. Although it’s possible cryptographically in multiple ways, OpenZiti’s PKI handles it.
 
-#### The third key principle is: Mutual Authentication.
+
+### The third key principle is: Mutual Authentication.
 I mean, at some point, you would still need to trust something. 
 
 But not thoughtlessly, just because the service is accessible and you have the ability to send requests to it, but because you check that the trusted authority authenticated the identity it displays. 
@@ -47,8 +48,8 @@ From IBM: https://www.youtube.com/watch?v=yn6CPQ9RioA&pp=ygUSd2hhdCBpcyB6ZXJvIHR
 
 And CISCO: https://www.youtube.com/watch?v=DLQAbJm4gFM&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0
 
-## OpenZiti's Zero-Trust
 
+## OpenZiti's Zero-Trust
 Once the principle is defined, OpenZiti’s offerings become easier to grasp. This includes every piece needed for a network built on Zero Trust Networking principles. 
 Whether it's through application-embedded solutions referred to as Zero Trust Application Access. 
 Zero Trust Host Access where an encryption and trust ends on the hosts. 
@@ -71,7 +72,6 @@ So underlay means our usual TCP/IP network and OpenZiti being an overlay.
 ## OpenZiti overlay network (fabric) features
 
 ### High-Availability
-
 The network’s high availability results from its design, and the system calculates costs across the fabric from the source to the destination through every possible path. 
 The overlay routes according to the lowest cost regardless of the underlay - circumventing standard BGP, as well as providing higher uptime and reliability. 
 
@@ -92,8 +92,8 @@ Posture checks are performed on the edge devices (e.g laptops) and are constantl
 
 With this approach, you could eliminate the possibility of identity theft by a bad actor and ensure the network level security.
 
-### BrowZer
 
+### BrowZer
 Do you want to allow users to access some users outside of the domain to access some platform, but don't want them to get into the network and don't want to expose the service to the public internet? 
 BrowZer could potentially address this issue by allowing users to simply complete the OIDC challenge and connect to the service through OpenZiti routers in the browser. 
 
@@ -104,8 +104,8 @@ You can find more features here: https://openziti.io/docs/learn/introduction/fea
 As well as a great talk about this here: https://www.youtube.com/watch?v=l5ktiI-j3eg
 And a setup of self-hosted BrowZer here: https://www.youtube.com/watch?v=98cGSnEBzOE
 
-## Conventional solutions(VPNs, firewalls)
 
+## Conventional solutions(VPNs, firewalls)
 VPNs and firewalls provided a perimeter-based defense model. VPNs create secure, encrypted tunnels for data transmission across public networks, extending a private network over the internet. 
 Firewalls act as gatekeepers, filtering incoming and outgoing traffic based on predefined security rules. 
 People designed these technologies for an era with more clearly defined corporate network boundaries, focused on keeping external threats out. 
@@ -113,8 +113,8 @@ People designed these technologies for an era with more clearly defined corporat
 However, the traditional perimeter model struggles in an environment characterized by cloud computing, remote work, and increased mobile device usage. The once-clear boundary between internal and external networks has blurred, rendering perimeter defenses less effective. 
 VPNs can introduce latency and bottlenecks, while firewalls may not address threats that originate within the network or bypass perimeter defenses altogether. 
 
-## Conclusion
 
+## Conclusion
 I believe OpenZiti represents a significant step forward in implementing Zero Trust principles by offering a comprehensive suite of features designed to secure network communications in a modern enterprise environment. 
 As I continue to explore its capabilities in subsequent articles, we will delve deeper into its architecture, use cases, and how it stands as a robust alternative to conventional networking solutions. 
 Stay tuned for more insights into how OpenZiti can transform your approach to network security. 
