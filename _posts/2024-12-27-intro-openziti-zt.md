@@ -99,8 +99,11 @@ BrowZer could potentially address this issue by allowing users to simply complet
 ![simplified-browzer-oidc-flow-svg](https://raw.githubusercontent.com/nenkoru/nenkoru-ghpages/refs/heads/main/_images/2024-12-17-openziti-intro/simplified-browzer-oidc.svg)
 ---
 These features are just the ones that I think are worth noting in the first article, more and in-depth coming later. This here is just to bind Zero Trust and OpenZiti together for the following threads. 
+
 You can find more features here: https://openziti.io/docs/learn/introduction/features/#zero-trust
+
 As well as a great talk about this here: https://www.youtube.com/watch?v=l5ktiI-j3eg
+
 And a setup of self-hosted BrowZer here: https://www.youtube.com/watch?v=98cGSnEBzOE
 
 
