@@ -19,8 +19,9 @@ Let's first define "Zero Trust."
 In simple terms, this is a security model specifying that no device or user should trust, even on a particular network. 
 This requires continuous verification of identities and explicit granting of access to each resource they attempt to access. 
 Having access to the corporate network's inner perimeter does not grant trust. 
-#### A foundational aspect of the Zero Trust principle is the concept of Least Privilege.
 
+
+### A foundational aspect of the Zero Trust principle is the concept of Least Privilege.
 With questions to be answered: 
 - Is an identity able to dial the service?
 - Is an identity able to host the service?
