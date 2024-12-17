@@ -41,11 +41,11 @@ The service operates in the opposite direction as well. It needs verification of
 
 Numerous excellent discussions exist concerning simplification and demystification of the term.
 
-From Clint of OpenZiti: https://www.youtube.com/live/ctdyAzvByR8?si=0rFBV8fL6eNPQGZl&t=160
+From Clint of OpenZiti: <https://www.youtube.com/live/ctdyAzvByR8?si=0rFBV8fL6eNPQGZl&t=160>
 
-From IBM: https://www.youtube.com/watch?v=yn6CPQ9RioA&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0
+From IBM: <https://www.youtube.com/watch?v=yn6CPQ9RioA&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
 
-And CISCO: https://www.youtube.com/watch?v=DLQAbJm4gFM&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0
+And CISCO: <https://www.youtube.com/watch?v=DLQAbJm4gFM&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
 
 
 ## OpenZiti's Zero-Trust
@@ -100,11 +100,11 @@ BrowZer could potentially address this issue by allowing users to simply complet
 ---
 These features are just the ones that I think are worth noting in the first article, more and in-depth coming later. This here is just to bind Zero Trust and OpenZiti together for the following threads. 
 
-You can find more features here: https://openziti.io/docs/learn/introduction/features/#zero-trust
+You can find more features here: <https://openziti.io/docs/learn/introduction/features/#zero-trust>
 
-As well as a great talk about this here: https://www.youtube.com/watch?v=l5ktiI-j3eg
+As well as a great talk about this here: <https://www.youtube.com/watch?v=l5ktiI-j3eg>
 
-And a setup of self-hosted BrowZer here: https://www.youtube.com/watch?v=98cGSnEBzOE
+And a setup of self-hosted BrowZer here: <https://www.youtube.com/watch?v=98cGSnEBzOE>
 
 
 ## Conventional solutions(VPNs, firewalls)
