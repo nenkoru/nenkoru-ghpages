@@ -43,9 +43,9 @@ Numerous excellent discussions exist concerning simplification and demystificati
 
 From Clint of OpenZiti: <https://www.youtube.com/live/ctdyAzvByR8?si=0rFBV8fL6eNPQGZl&t=160>
 
-From IBM: <https://www.youtube.com/watch?v=yn6CPQ9RioA&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
+From IBM: <https://www.youtube.com/watch?v=yn6CPQ9RioA>
 
-And CISO: <https://www.youtube.com/watch?v=DLQAbJm4gFM&pp=ygUSd2hhdCBpcyB6ZXJvIHRydXN0>
+And CISO: <https://www.youtube.com/watch?v=DLQAbJm4gFM>
 
 
 ## OpenZiti's Zero-Trust
